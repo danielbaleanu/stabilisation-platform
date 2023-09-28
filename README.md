@@ -20,14 +20,14 @@ To use this project, follow these steps:
 6. **Testing and Concluding**: After you have concluded all the necessary tests and you are satisfied with the results, you can close the housing and conclude.
 
 **!!! IMPORTANT NOTICE !!!** 
-1. **Please** take all the safety precautions when working with electrical circuits and components! Do not engage in working with live wires! It is recommended that your house should be equipped with the RCBO (Europe) or GFCI (USA) type safety switches.
+1. **Please** take all the safety precautions when working with electrical circuits and electrical components! Do not engage in working with live wires! It is recommended that your house be equipped with RCBO (Europe) or GFCI (USA) type safety switches.
    
 2. **Please** wear safety glasses while using power tools.
    
 3. I am not responsible for any injuries or damages!
 
-## Video Demonstration
-A video demonstration has been provided in the repository.
+## Demonstration Video
+A demonstration video has been provided in the repository.
 
 ## License
 This project is open-source.
