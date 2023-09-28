@@ -19,8 +19,6 @@ To use this project, follow these steps:
    
 6. **Testing and Concluding**: After you have concluded all the necessary tests and you are satisfied with the results, you can close the housing and conclude.
 
-
-
 **!!! IMPORTANT NOTICE !!!** 
 1. **Please** take all the safety precautions when working with electrical circuits and components! Do not engage in working with live wires! It is recommended that your house should be equipped with the RCBO (Europe) or GFCI (USA) type safety switches.
    
