@@ -9,7 +9,7 @@ To use this project, follow these steps:
 
 1. **Check Out the Electrical Diagram**: There you will find all the components that are needed for this project.
 
-2. **Design and Print a Housing of Your Taste**: Check out the housing pictures in the repository for housing ideas.
+2. **Design and Print a Housing of Your Own Taste**: Check out the housing pictures in the repository for housing ideas.
 
 3. **Mount and Wire the Components According to the Electrical Diagram**: Follow the electrical diagram and wire accordingly.
 
